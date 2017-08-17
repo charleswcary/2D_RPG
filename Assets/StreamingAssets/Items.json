@@ -1,0 +1,44 @@
+[
+	{
+		"id": 0,
+		"name": "Wooden Staff",
+		"class": "weapon",
+		"value": 4,
+		"stackable": false,
+		"type":{
+			"physical": 0,
+			"magic": 10
+		},
+		"slug": "wooden_staff",
+		"description": "Staff made entirely out of wood.",
+		"rarity": "common"
+	},
+	{
+		"id": 1,
+		"name": "Potion",
+		"class": "aid",
+		"value": 20,
+		"stackable": true,
+		"type":{
+			"physical": 0,
+			"magic": 0
+		},
+		"slug": "potion",
+		"description": "A potion of healing.",
+		"rarity": "common"
+	},
+	{
+		"id": 2,
+		"name": "Mystical Staff",
+		"class": "weapon",
+		"value": 20,
+		"stackable": false,
+		"type":{
+			"physical": 1,
+			"magic": 25
+		},
+		"slug": "mystical_staff",
+		"description": "Staff of slight mystical power.",
+		"rarity": "common"
+	}
+]

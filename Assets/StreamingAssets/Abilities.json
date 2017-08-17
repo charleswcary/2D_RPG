@@ -1,0 +1,28 @@
+[
+	{
+		"id": 0,
+		"name": "Fire",
+		"type": "magic",
+		"element": "fire",
+		"targets": 1,
+		"APcost": 1,
+		"MPcost": 3,
+		"physical": 0,
+		"magic": 2,
+		"slug": "fire",
+		"description": "A spell of fire"
+	},
+	{
+		"id": 1,
+		"name": "Cure",
+		"type": "magic",
+		"element": "light",
+		"targets": 1,
+		"APcost": 1,
+		"MPcost": 3,
+		"physical": 0,
+		"magic": 2,
+		"slug": "cure",
+		"description": "A spell of healing"
+	}
+]
